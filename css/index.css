@@ -14,12 +14,14 @@ img.main_left {
   float: left;
   height: 12em;
   width: auto;
+  padding: .2em;
 }
 
 img.main_right {
   float: right;
   height: 12em;
   width: auto;
+  padding: .2em;
 }
 
 .center {
