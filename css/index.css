@@ -1,0 +1,9 @@
+.sidebar {
+  float: right;
+}
+
+img.main {
+  float: left;
+  height: 15em;
+  width: auto;
+}
