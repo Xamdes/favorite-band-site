@@ -25,3 +25,10 @@ img.main_right {
 .center {
   text-align: center;
 }
+
+.border {
+  margin: 1em;
+  border: .3em solid red;
+  padding: .3em;
+  background-color: green;
+}
