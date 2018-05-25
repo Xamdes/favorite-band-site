@@ -12,7 +12,7 @@ Created a favorite band site to practice using floats and creating sidebars.
 
 HTML, CSS, Floats, Divs, Spans
 
-##installation
+## Installation
 Clone from https://github.com/xamdes/favorite-band-site.git
 or https://github.com/bscott9592/favorite_band_site.git
 
